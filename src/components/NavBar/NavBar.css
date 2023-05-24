@@ -1,0 +1,19 @@
+nav.navbar{
+    padding-top: 0;
+}
+
+nav .container-fluid{
+    background-color: #c75252;
+}
+
+nav path{
+    fill: white;
+}
+
+.house-icon{
+    margin-left: 15px;
+}
+
+.navbar-brand{
+    margin-left: 25px;
+}

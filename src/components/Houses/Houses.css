@@ -1,0 +1,28 @@
+.features-list{
+    display: inline-flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+li.feature-item {
+    padding: 1rem;
+}
+
+li.feature-item span{
+    margin: 10%;
+}
+
+h1.card-title.custom{
+    font-family: roboto slab,sans-serif;
+    font-weight: 700;
+    font-size: 1.375rem;
+}
+
+h2.card-title.custom{
+    font-weight: 700;
+    font-size: 1.375rem;
+}
+
+path{
+    fill:#c75252;
+}

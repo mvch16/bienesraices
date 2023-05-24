@@ -1,10 +1,13 @@
 import './App.css';
-import Todo from './components/Todo';
+import Houses from './components/Houses/Houses';
+import NavBar from './components/NavBar/NavBar';
+import "bootstrap/dist/css/bootstrap.min.css";
 
   function App() {
    return (
    <div className="App">
-   <Todo />
+    <NavBar/>
+   <Houses />
    </div>
   );
 }

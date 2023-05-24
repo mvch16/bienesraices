@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bienesraices/static/css/main.d6f6fae2.css",
+    "main.js": "/bienesraices/static/js/main.160b88db.js",
+    "static/js/787.7c66a9ef.chunk.js": "/bienesraices/static/js/787.7c66a9ef.chunk.js",
+    "index.html": "/bienesraices/index.html",
+    "main.d6f6fae2.css.map": "/bienesraices/static/css/main.d6f6fae2.css.map",
+    "main.160b88db.js.map": "/bienesraices/static/js/main.160b88db.js.map",
+    "787.7c66a9ef.chunk.js.map": "/bienesraices/static/js/787.7c66a9ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6f6fae2.css",
+    "static/js/main.160b88db.js"
+  ]
+}
